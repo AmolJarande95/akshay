@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Test_NG.TestNG_demo3_Failed_XML_And_Disable_TCE_From_TestSuit"/>
+      <class name="Test_NG.TestNG_demo4_Failed_XML_And_Disable_TCE_From_TestSuit"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
